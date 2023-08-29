@@ -26,7 +26,7 @@ const int PIR_SENSOR_OUTPUT_PIN = 27;  /* PIR sensor O/P pin */
 
 char auth[] = BLYNK_AUTH_TOKEN;
 char ssid[] = "Redmi Note 11";
-char pass[] = "AJAY ARUN 88";
+char pass[] = "*********";
 
 DHT dht(DHTPIN, DHTTYPE);
 BlynkTimer timer;
